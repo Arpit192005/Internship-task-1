@@ -46,9 +46,11 @@ Updates values in real time
 Triggers alerts when thresholds are crossed
 Displays status (Normal / Warning / Critical)
 
+The project link :- https://wokwi.com/projects/456937382692994049
 
 This is the link to the dashboard of the Facility mamber:-  
 "https://io.adafruit.com/Arpit_19/dashboards/dashboard-2-facility-management-view-environment-board"
 
 This i sthe link to the dashboard of the Medical staff :- 
 "https://io.adafruit.com/Arpit_19/dashboards/dashboard-1-medical-staff-view-vitals-board"
+
